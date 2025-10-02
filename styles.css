@@ -1,0 +1,55 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: silver;
+}
+
+.index-header {
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: auto;
+}
+
+.list-container {
+    text-align: center;
+    /* display: flex; */
+    justify-content: center;
+}
+
+.home-list {
+    display: inline-block;
+    padding: 2rem;
+    border: 2px;
+    border-color: wheat;
+    background-color: wheat;
+}
+
+.shrimp-title {
+    text-align: center;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    margin: 0 auto;
+    list-style-position: inside;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.home-link {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
